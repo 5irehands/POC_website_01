@@ -1,4 +1,8 @@
 POCWebsite01::Application.routes.draw do
+  
+  resources :pages
+  root :to => "pages#index01"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

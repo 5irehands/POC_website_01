@@ -12,4 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require_tree .
+//= require jquery-2.0.3.min
+//= require bootstrap.min
+//= require jquery.slideshow.min
+//= require customize
